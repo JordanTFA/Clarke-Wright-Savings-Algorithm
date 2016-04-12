@@ -1,0 +1,894 @@
+<?xml version='1.0'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' '../../svg11-flat.dtd'>
+<svg width='8cm' height='8cm' viewBox='0 0 500 500' xmlns='http://www.w3.org/2000/svg' version='1.1'>
+<path d='M250.0 250.0 L331.0 360.0L347.0 403.0L333.0 412.0L333.0 410.0L327.0 401.0L329.0 403.0L317.0 408.0L308.0 407.0L306.0 411.0L301.0 403.0z' stroke='chocolate' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L363.0 305.0L395.0 333.0L419.0 346.0L424.0 349.0L424.0 344.0L418.0 343.0L392.0 328.0L386.0 325.0L369.0 315.0z' stroke='cornflowerblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L281.0 369.0L271.0 382.0L293.0 398.0L291.0 387.0L304.0 363.0L303.0 352.0L300.0 330.0z' stroke='crimson' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L492.0 177.0L493.0 168.0L494.0 156.0L483.0 143.0L482.0 145.0L476.0 156.0L397.0 158.0z' stroke='cyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L367.0 223.0L377.0 211.0L390.0 179.0L374.0 159.0L349.0 160.0L344.0 193.0L337.0 209.0L322.0 219.0z' stroke='darkblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L62.0 485.0L48.0 498.0L38.0 487.0L26.0 495.0L32.0 489.0L7.0 476.0L11.0 473.0L33.0 461.0L44.0 453.0L74.0 418.0L101.0 403.0z' stroke='darkcyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L167.0 293.0L147.0 303.0L139.0 292.0L152.0 277.0L121.0 264.0L101.0 230.0L106.0 239.0L108.0 239.0L124.0 250.0L126.0 248.0L140.0 240.0z' stroke='darkgoldenrod' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L397.0 296.0L408.0 301.0L409.0 302.0L403.0 306.0L389.0 313.0L380.0 319.0L375.0 313.0L335.0 294.0z' stroke='chocolate' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L329.0 19.0L327.0 12.0L327.0 10.0L335.0 1.0L348.0 20.0L361.0 38.0L385.0 47.0L384.0 47.0L382.0 48.0L384.0 76.0L379.0 146.0z' stroke='cornflowerblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L425.0 176.0L438.0 167.0L472.0 182.0L488.0 179.0L471.0 178.0L464.0 167.0L445.0 150.0L430.0 143.0L430.0 144.0z' stroke='crimson' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L281.0 456.0L276.0 462.0L272.0 471.0L264.0 476.0L262.0 464.0L247.0 462.0L245.0 454.0L248.0 449.0L250.0 389.0z' stroke='cyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L147.0 156.0L138.0 161.0L131.0 145.0L123.0 146.0L159.0 138.0L164.0 145.0L165.0 153.0L158.0 155.0L173.0 157.0z' stroke='darkblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L488.0 362.0L493.0 364.0L491.0 360.0L497.0 341.0L487.0 345.0L487.0 338.0L492.0 329.0L499.0 308.0L486.0 303.0L480.0 316.0z' stroke='darkcyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L253.0 363.0L242.0 399.0L265.0 415.0L236.0 428.0L234.0 427.0L226.0 410.0L228.0 396.0L213.0 383.0z' stroke='darkgoldenrod' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L49.0 13.0L41.0 15.0L37.0 15.0L29.0 14.0L28.0 14.0L25.0 5.0L2.0 15.0L16.0 21.0L21.0 23.0L27.0 34.0L92.0 83.0z' stroke='chocolate' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L305.0 260.0L318.0 250.0L337.0 249.0L333.0 260.0L314.0 283.0L284.0 310.0L253.0 313.0L234.0 282.0z' stroke='cornflowerblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L119.0 495.0L108.0 485.0L104.0 479.0L97.0 487.0L65.0 486.0L54.0 475.0L32.0 442.0L55.0 420.0L103.0 411.0L105.0 404.0z' stroke='crimson' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L407.0 176.0L407.0 169.0L419.0 142.0L425.0 161.0L438.0 171.0L430.0 173.0L392.0 216.0z' stroke='cyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L451.0 396.0L457.0 409.0L477.0 430.0L464.0 421.0L472.0 393.0L487.0 383.0L484.0 380.0L475.0 360.0L473.0 342.0L461.0 347.0L459.0 341.0L421.0 326.0L417.0 317.0z' stroke='darkblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L176.0 349.0L189.0 355.0L187.0 362.0L178.0 380.0L194.0 366.0L200.0 368.0L199.0 357.0L207.0 322.0z' stroke='darkcyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L393.0 416.0L404.0 438.0L441.0 433.0L432.0 429.0L427.0 401.0L437.0 390.0L443.0 371.0L454.0 360.0L443.0 358.0z' stroke='darkgoldenrod' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L42.0 73.0L33.0 69.0L26.0 61.0L20.0 55.0L7.0 42.0L15.0 66.0L24.0 73.0L41.0 77.0L46.0 89.0z' stroke='chocolate' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L60.0 164.0L55.0 160.0L40.0 151.0L39.0 147.0L49.0 151.0L67.0 140.0L74.0 138.0L90.0 140.0z' stroke='cornflowerblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L225.0 88.0L168.0 69.0L160.0 46.0L170.0 39.0L183.0 40.0L177.0 56.0L159.0 62.0L143.0 80.0L125.0 97.0L121.0 103.0L140.0 100.0L213.0 212.0z' stroke='crimson' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L445.0 120.0L454.0 126.0L467.0 120.0L475.0 123.0L464.0 126.0L461.0 106.0L463.0 102.0L439.0 79.0z' stroke='cyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L117.0 92.0L105.0 78.0L75.0 74.0L67.0 98.0L76.0 122.0L79.0 134.0L84.0 135.0z' stroke='darkblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L46.0 214.0L21.0 173.0L5.0 166.0L8.0 170.0L9.0 172.0L14.0 173.0L7.0 194.0L30.0 199.0L40.0 206.0L51.0 203.0L56.0 185.0L109.0 165.0z' stroke='darkcyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L116.0 425.0L14.0 426.0L8.0 441.0L5.0 433.0L7.0 424.0L13.0 417.0L10.0 409.0L10.0 410.0L119.0 334.0z' stroke='darkgoldenrod' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L259.0 498.0L254.0 489.0L279.0 496.0L300.0 489.0L303.0 497.0L312.0 493.0L313.0 463.0L347.0 449.0L350.0 463.0L352.0 466.0L344.0 470.0L332.0 477.0L317.0 457.0L331.0 391.0z' stroke='chocolate' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L379.0 449.0L399.0 475.0L413.0 494.0L413.0 486.0L417.0 460.0L414.0 456.0L423.0 439.0L419.0 450.0L384.0 419.0z' stroke='cornflowerblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L245.0 120.0L248.0 45.0L252.0 43.0L258.0 31.0L241.0 25.0L237.0 26.0L236.0 26.0L225.0 81.0z' stroke='crimson' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L401.0 377.0L410.0 390.0L409.0 398.0L409.0 408.0L400.0 401.0L395.0 403.0L310.0 342.0L313.0 334.0z' stroke='cyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L316.0 273.0L389.0 356.0L406.0 369.0L419.0 371.0L428.0 368.0L425.0 354.0L403.0 350.0L346.0 316.0z' stroke='darkblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L28.0 323.0L17.0 287.0L7.0 276.0L21.0 254.0L24.0 246.0L0.0 229.0L18.0 223.0L24.0 224.0L90.0 264.0z' stroke='darkcyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L66.0 267.0L51.0 273.0L44.0 273.0L48.0 272.0L38.0 249.0L35.0 250.0L38.0 247.0L38.0 239.0L43.0 232.0L56.0 227.0L79.0 245.0z' stroke='darkgoldenrod' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L158.0 211.0L145.0 211.0L147.0 219.0L141.0 226.0L154.0 263.0L145.0 269.0L172.0 299.0L185.0 312.0L192.0 311.0L190.0 302.0L213.0 287.0z' stroke='chocolate' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L448.0 60.0L458.0 63.0L477.0 65.0L472.0 72.0L472.0 80.0L472.0 75.0L463.0 75.0L452.0 79.0L416.0 127.0L402.0 127.0z' stroke='cornflowerblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L220.0 158.0L181.0 122.0L200.0 109.0L209.0 123.0L219.0 138.0L246.0 149.0L246.0 154.0z' stroke='crimson' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L298.0 196.0L283.0 186.0L281.0 181.0L278.0 182.0L274.0 184.0L255.0 211.0z' stroke='cyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L45.0 386.0L12.0 401.0L11.0 394.0L8.0 390.0L12.0 380.0L4.0 366.0L14.0 351.0L15.0 321.0L37.0 310.0L55.0 312.0L123.0 306.0z' stroke='darkblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L58.0 113.0L43.0 102.0L30.0 108.0L19.0 108.0L32.0 128.0L9.0 136.0L25.0 162.0L49.0 166.0z' stroke='darkcyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L392.0 89.0L394.0 93.0L410.0 91.0L428.0 100.0L419.0 107.0L388.0 125.0L385.0 132.0z' stroke='darkgoldenrod' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L173.0 160.0L156.0 183.0L157.0 184.0L151.0 181.0L149.0 177.0L145.0 185.0L148.0 190.0L150.0 194.0L158.0 204.0L191.0 214.0z' stroke='chocolate' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L439.0 241.0L464.0 228.0L483.0 229.0L486.0 210.0L459.0 211.0L458.0 210.0L457.0 203.0L440.0 199.0L436.0 219.0L286.0 242.0z' stroke='cornflowerblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L471.0 29.0L462.0 11.0L488.0 5.0L493.0 31.0L487.0 40.0L486.0 58.0L479.0 56.0L489.0 68.0L485.0 68.0L493.0 97.0L455.0 126.0z' stroke='crimson' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L458.0 248.0L489.0 268.0L492.0 268.0L498.0 261.0L497.0 268.0L495.0 246.0L499.0 243.0L493.0 237.0L496.0 220.0L482.0 223.0z' stroke='cyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L279.0 177.0L280.0 170.0L275.0 162.0L285.0 136.0L294.0 135.0L294.0 167.0L293.0 169.0L303.0 179.0L285.0 188.0L280.0 218.0z' stroke='darkblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L370.0 134.0L393.0 77.0L412.0 63.0L413.0 52.0L434.0 43.0L460.0 21.0L435.0 12.0L429.0 21.0L424.0 34.0L414.0 37.0L328.0 143.0z' stroke='darkcyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L436.0 424.0L454.0 441.0L495.0 453.0L491.0 468.0L487.0 469.0L477.0 491.0L472.0 487.0L467.0 464.0L446.0 475.0L442.0 452.0L309.0 372.0z' stroke='darkgoldenrod' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L327.0 30.0L324.0 21.0L302.0 14.0L274.0 5.0L278.0 12.0L258.0 41.0L257.0 59.0L265.0 44.0L276.0 64.0z' stroke='chocolate' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L256.0 281.0L193.0 285.0L179.0 251.0L169.0 225.0L202.0 243.0L216.0 258.0L225.0 245.0z' stroke='cornflowerblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L71.0 438.0L73.0 444.0L84.0 460.0L103.0 468.0L104.0 456.0L112.0 445.0L133.0 438.0z' stroke='crimson' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L229.0 303.0L219.0 323.0L201.0 340.0L232.0 371.0L242.0 318.0L268.0 287.0z' stroke='cyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L270.0 118.0L262.0 86.0L272.0 96.0L281.0 89.0L301.0 87.0L304.0 99.0L286.0 104.0L298.0 139.0z' stroke='darkblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L215.0 116.0L189.0 94.0L179.0 70.0L200.0 56.0L234.0 73.0L259.0 73.0L252.0 80.0L246.0 116.0z' stroke='darkcyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L213.0 182.0L219.0 178.0L223.0 176.0L223.0 177.0L247.0 172.0L260.0 164.0L262.0 170.0L243.0 193.0z' stroke='darkgoldenrod' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L327.0 302.0L310.0 323.0L301.0 329.0L265.0 329.0L260.0 321.0L268.0 314.0z' stroke='chocolate' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L215.0 301.0L183.0 399.0L160.0 402.0L173.0 411.0L175.0 435.0L191.0 453.0L189.0 463.0L190.0 446.0L201.0 395.0z' stroke='cornflowerblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L149.0 409.0L144.0 427.0L129.0 416.0L93.0 391.0L109.0 400.0L109.0 406.0L111.0 404.0L84.0 347.0L96.0 320.0L100.0 317.0z' stroke='crimson' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L367.0 293.0L420.0 317.0L438.0 310.0L443.0 311.0L447.0 296.0L440.0 304.0L432.0 302.0L421.0 304.0L349.0 278.0z' stroke='cyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L283.0 333.0L356.0 374.0L363.0 381.0L359.0 379.0L371.0 347.0L367.0 346.0L358.0 348.0L280.0 283.0z' stroke='darkblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L297.0 73.0L310.0 63.0L308.0 48.0L315.0 36.0L319.0 35.0L326.0 41.0L330.0 50.0L337.0 53.0z' stroke='darkcyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L73.0 337.0L47.0 346.0L41.0 333.0L29.0 342.0L37.0 357.0L74.0 369.0L83.0 375.0L90.0 360.0z' stroke='darkgoldenrod' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L163.0 462.0L168.0 499.0L176.0 497.0L148.0 485.0L141.0 476.0L152.0 462.0L153.0 458.0L149.0 455.0L156.0 452.0L161.0 445.0L162.0 427.0z' stroke='chocolate' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L343.0 423.0L374.0 464.0L376.0 474.0L378.0 480.0L390.0 476.0L402.0 466.0L394.0 466.0L384.0 446.0L358.0 418.0L331.0 367.0z' stroke='cornflowerblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L64.0 102.0L32.0 90.0L24.0 84.0L24.0 82.0L19.0 83.0L6.0 83.0L23.0 88.0L24.0 94.0z' stroke='crimson' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L194.0 214.0L197.0 201.0L200.0 194.0L185.0 183.0L195.0 167.0L208.0 168.0z' stroke='cyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L267.0 151.0L267.0 125.0L257.0 112.0L264.0 109.0L278.0 119.0L276.0 127.0L275.0 140.0L264.0 156.0z' stroke='darkblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L243.0 236.0L231.0 222.0L223.0 204.0L218.0 207.0L217.0 206.0L209.0 218.0z' stroke='darkcyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L194.0 117.0L179.0 106.0L162.0 102.0L154.0 109.0L145.0 109.0L140.0 107.0L145.0 122.0L145.0 119.0z' stroke='darkgoldenrod' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L167.0 302.0L151.0 313.0L151.0 311.0L125.0 321.0L125.0 322.0L107.0 321.0L104.0 312.0L125.0 350.0L137.0 344.0L152.0 320.0z' stroke='chocolate' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L231.0 441.0L231.0 442.0L237.0 442.0L258.0 443.0L265.0 426.0L280.0 432.0L277.0 420.0L284.0 388.0z' stroke='cornflowerblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L308.0 148.0L301.0 121.0L330.0 112.0L338.0 107.0L356.0 89.0L361.0 100.0L335.0 127.0L346.0 146.0L338.0 150.0z' stroke='crimson' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L394.0 280.0L405.0 282.0L393.0 270.0L397.0 254.0L391.0 257.0L385.0 252.0L387.0 236.0z' stroke='cyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L153.0 206.0L123.0 197.0L106.0 189.0L96.0 186.0L79.0 178.0L94.0 177.0L97.0 179.0L112.0 176.0L147.0 198.0z' stroke='darkblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L146.0 19.0L145.0 3.0L133.0 10.0L122.0 3.0L117.0 4.0L135.0 23.0L135.0 25.0L144.0 32.0z' stroke='darkcyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L444.0 226.0L465.0 240.0L455.0 263.0L468.0 283.0L473.0 279.0L474.0 280.0L474.0 276.0L454.0 275.0L448.0 272.0L442.0 280.0z' stroke='darkgoldenrod' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L378.0 71.0L407.0 28.0L421.0 15.0L422.0 13.0L422.0 12.0L417.0 9.0L410.0 14.0L407.0 8.0L408.0 19.0L395.0 28.0L375.0 35.0L353.0 39.0z' stroke='chocolate' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L176.0 177.0L140.0 159.0L124.0 142.0L118.0 126.0L112.0 116.0L94.0 108.0L111.0 118.0L112.0 126.0L110.0 129.0L115.0 145.0z' stroke='cornflowerblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L367.0 244.0L415.0 251.0L425.0 257.0L435.0 252.0L436.0 250.0L430.0 238.0L413.0 194.0L415.0 201.0L416.0 209.0L399.0 207.0z' stroke='crimson' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L109.0 62.0L115.0 49.0L122.0 34.0L69.0 2.0L47.0 30.0L75.0 56.0L119.0 91.0z' stroke='cyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L58.0 376.0L57.0 378.0L66.0 381.0L68.0 408.0L65.0 422.0L65.0 426.0L81.0 397.0L176.0 329.0z' stroke='darkblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L377.0 128.0L379.0 126.0L376.0 120.0L389.0 118.0L393.0 113.0L395.0 106.0L388.0 94.0L376.0 91.0L375.0 104.0z' stroke='darkcyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L462.0 317.0L469.0 316.0L472.0 313.0L471.0 305.0L461.0 302.0L462.0 301.0L460.0 295.0z' stroke='darkgoldenrod' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L213.0 444.0L215.0 447.0L202.0 461.0L200.0 468.0L210.0 472.0L227.0 482.0L228.0 487.0L236.0 497.0L237.0 472.0L236.0 466.0z' stroke='chocolate' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L262.0 250.0L313.0 220.0L364.0 208.0L372.0 215.0L365.0 226.0L375.0 264.0L335.0 232.0L310.0 229.0z' stroke='cornflowerblue' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L119.0 290.0L116.0 292.0L84.0 293.0L71.0 309.0L63.0 291.0L69.0 278.0L71.0 276.0L97.0 261.0L99.0 264.0L123.0 275.0L139.0 265.0z' stroke='crimson' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L198.0 90.0L192.0 36.0L188.0 35.0L188.0 28.0L185.0 22.0L179.0 14.0L199.0 7.0L219.0 23.0L220.0 19.0L215.0 39.0z' stroke='cyan' fill='none' stroke-width='2'/>
+<path d='M250.0 250.0 L126.0 208.0L119.0 206.0L109.0 208.0L97.0 199.0L87.0 205.0L77.0 205.0L73.0 219.0L85.0 221.0L94.0 219.0L104.0 213.0L123.0 215.0z' stroke='darkblue' fill='none' stroke-width='2'/>
+<g transform='translate(413,52)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(335,127)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(73,219)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(245,120)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(108,239)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(219,178)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(331,360)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(435,12)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(199,7)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(291,387)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(29,342)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(15,66)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(363,305)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(271,382)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(202,461)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(192,311)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(254,489)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(440,304)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(418,343)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(12,380)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(492,177)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(498,261)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(117,4)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(14,173)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(367,223)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(62,485)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(353,39)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(123,275)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(167,293)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(397,296)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(8,170)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(11,473)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(73,444)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(329,19)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(77,205)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(335,1)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(231,442)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(425,176)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(5,433)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(375,264)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(253,313)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(281,456)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(147,156)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(145,185)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(151,311)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(197,201)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(389,356)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(7,42)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(458,63)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(112,445)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(192,36)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(200,109)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(119,206)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(488,362)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(329,403)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(497,268)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(90,264)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(253,363)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(442,452)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(443,311)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(4,366)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(49,13)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(141,476)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(265,44)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(209,218)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(347,403)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(305,260)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(119,495)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(495,453)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(419,142)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(434,43)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(324,21)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(376,91)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(344,193)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(451,396)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(176,349)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(393,416)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(11,394)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(125,322)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(218,207)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(42,73)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(60,164)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(420,317)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(170,39)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(135,25)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(393,113)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(454,126)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(332,477)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(129,416)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(176,497)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(472,182)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(436,219)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(252,43)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(284,310)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(225,88)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(399,207)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(83,375)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(286,104)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(439,79)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(412,63)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(117,92)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(448,60)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(145,119)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(140,107)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(293,169)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(202,243)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(46,214)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(116,425)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(409,408)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(259,498)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(252,80)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(109,400)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(387,236)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(379,449)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(225,81)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(401,377)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(409,302)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(349,160)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(38,247)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(430,173)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(67,140)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(430,144)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(116,292)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(264,476)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(316,273)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(392,89)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(28,323)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(260,321)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(246,154)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(331,367)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(47,346)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(66,267)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(424,344)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(158,211)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(152,320)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(402,127)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(379,146)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(40,206)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(436,250)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(181,122)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(123,306)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(159,138)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(421,304)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(149,177)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(28,14)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(374,159)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(144,32)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(208,168)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(298,196)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(264,156)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(23,88)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(45,386)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(276,64)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(140,240)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(486,303)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(494,156)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(347,449)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(346,316)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(58,113)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(394,93)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(301,329)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(84,293)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(173,160)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(349,278)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(139,292)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(112,126)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(303,352)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(439,241)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(467,464)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(419,107)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(137,344)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(471,29)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(384,76)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(407,8)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(482,223)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(304,363)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(487,469)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(258,31)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(279,177)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(194,366)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(491,360)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(394,280)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(162,102)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(370,134)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(278,119)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(436,424)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(317,457)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(327,30)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(123,197)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(168,69)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(5,166)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(419,450)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(301,121)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(317,408)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(46,89)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(462,11)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(283,186)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(438,167)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(265,415)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(485,68)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(264,109)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(312,493)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(428,368)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(256,281)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(399,475)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(97,487)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(487,345)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(472,487)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(225,245)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(462,301)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(71,438)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(319,35)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(479,56)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(57,378)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(58,376)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(250,389)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(229,303)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(51,203)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(270,118)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(460,295)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(48,272)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(416,209)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(318,250)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(27,34)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(262,250)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(358,348)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(419,346)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(178,380)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(215,116)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(101,230)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(121,264)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(457,203)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(404,438)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(267,151)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(213,182)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(403,350)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(302,14)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(281,369)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(327,302)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(41,333)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(223,177)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(84,460)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(201,395)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(109,165)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(149,409)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(464,228)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(333,260)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(25,162)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(33,69)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(43,232)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(367,293)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(65,426)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(281,89)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(303,179)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(395,106)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(100,317)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(304,99)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(94,177)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(32,90)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(106,189)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(283,333)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(297,73)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(103,411)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(359,379)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(118,126)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(191,453)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(18,223)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(417,460)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(337,53)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(141,226)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(492,329)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(76,122)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(185,22)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(455,126)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(115,145)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(475,123)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(7,276)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(175,435)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(416,127)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(496,220)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(73,337)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(147,219)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(44,273)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(397,158)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(484,380)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(432,429)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(413,486)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(461,347)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(422,12)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(96,320)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(199,357)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(74,138)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(112,176)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(474,276)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(441,433)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(310,229)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(35,250)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(265,329)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(109,208)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(110,129)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(179,14)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(293,398)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(454,360)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(125,321)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(369,315)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(330,50)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(172,299)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(169,225)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(24,246)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(190,446)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(458,248)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(13,417)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(79,134)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(247,462)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(333,410)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(24,82)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(200,468)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(163,462)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(268,314)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(246,116)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(377,211)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(385,132)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(19,108)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(149,455)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(9,136)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(480,316)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(343,423)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(200,194)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(104,479)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(475,360)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(237,472)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(395,333)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(191,214)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(407,176)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(275,162)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(326,41)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(459,211)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(55,420)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(189,355)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(361,100)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(39,147)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(356,374)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(97,199)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(94,108)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(54,475)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(262,170)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(96,186)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(37,357)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(64,102)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(246,149)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(101,403)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(255,211)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(215,301)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(194,214)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(145,269)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(413,494)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(313,334)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(493,97)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(352,466)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(430,143)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(405,282)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(122,3)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(458,210)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(232,371)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(335,294)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(126,248)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(275,140)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(75,56)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(468,283)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(303,497)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(55,312)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(49,166)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(294,167)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(417,9)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(280,283)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(173,157)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(423,439)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(15,321)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(71,276)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(8,390)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(94,219)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(243,236)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(104,312)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(331,391)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(220,19)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(189,94)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(133,10)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(276,462)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(194,117)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(432,302)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(48,498)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(327,12)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(183,399)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(443,358)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(177,56)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(234,282)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(410,14)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(482,145)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(471,178)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(257,59)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(38,487)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(476,156)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(97,261)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(160,402)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(147,303)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(144,427)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(472,72)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(81,397)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(477,65)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(384,446)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(248,449)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(236,497)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(92,83)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(16,21)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(375,35)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(472,75)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(407,169)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(90,140)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(446,475)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(374,464)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(69,2)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(392,216)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(195,167)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(10,410)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(104,213)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(213,212)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(247,172)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(445,120)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(337,249)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(257,112)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(443,371)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(380,319)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(145,211)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(306,411)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(389,313)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(143,80)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(276,127)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(421,326)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(215,39)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(361,38)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(105,78)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(51,273)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(424,349)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(327,10)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(0,229)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(435,252)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(157,184)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(25,5)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(140,100)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(85,221)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(190,302)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(330,112)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(93,391)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(38,239)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(7,476)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(167,302)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(185,312)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(285,188)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(386,325)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(314,283)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(243,193)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(21,173)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(56,227)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(151,181)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(145,109)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(462,317)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(160,46)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(414,37)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(231,441)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(6,83)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(487,40)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(438,310)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(67,98)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(10,409)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(210,472)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(12,401)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(308,148)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(278,12)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(162,427)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(219,23)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(391,257)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(234,427)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(71,309)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(112,116)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(148,190)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(422,13)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(84,347)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(189,463)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(49,151)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(148,485)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(335,232)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(428,100)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(173,411)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(154,263)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(365,226)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(123,146)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(258,41)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(200,368)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(217,206)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(393,270)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(179,106)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(333,412)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(140,159)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(41,77)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(493,364)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(492,268)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(483,143)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(457,409)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(327,401)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(308,407)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(43,102)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(372,215)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(274,184)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(188,35)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(385,252)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(133,438)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(153,206)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(338,150)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(421,15)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(158,155)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(497,341)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(419,371)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(375,104)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(395,28)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(429,21)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(477,491)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(145,3)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(463,75)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(164,145)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(146,19)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(493,31)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(165,153)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(274,5)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(425,161)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(464,167)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(259,73)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(24,84)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(32,128)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(464,126)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(213,287)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(90,360)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(472,393)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(491,468)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(223,176)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(220,158)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(24,94)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(123,215)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(472,80)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(493,168)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(301,87)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(26,61)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(464,421)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(200,56)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(471,305)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(469,316)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(350,463)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(32,489)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(21,23)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(55,160)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(348,20)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(237,26)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(201,340)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(223,204)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(268,287)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(145,122)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(444,226)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(376,120)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(216,258)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(68,408)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(151,313)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(425,354)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(278,182)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(378,71)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(231,222)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(452,79)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(395,403)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(258,443)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(219,138)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(209,123)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(227,482)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(74,369)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(159,62)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(179,70)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(41,15)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(24,73)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(176,177)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(30,199)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(79,178)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(310,63)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(410,91)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(415,201)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(488,179)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(393,77)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(63,291)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(236,428)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(103,468)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(21,254)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(356,89)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(234,73)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(375,313)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(188,28)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(168,499)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(17,287)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(294,135)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(367,244)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(2,15)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(474,280)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(472,313)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(438,171)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(236,26)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(363,381)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(489,68)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(8,441)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(322,219)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(301,403)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(237,442)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(477,430)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(281,181)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(313,463)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(284,388)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(107,321)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(379,126)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(119,91)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(272,471)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(74,418)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(389,118)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(388,125)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(473,279)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(473,342)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(228,487)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(277,420)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(465,240)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(105,404)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(131,145)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(228,396)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(364,208)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(406,369)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(245,454)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(176,329)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(213,383)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(367,346)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(242,399)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(84,135)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(437,390)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(415,251)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(119,334)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(463,102)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(298,139)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(280,218)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(403,306)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(430,238)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(454,441)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(125,350)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(408,19)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(161,445)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(38,249)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(344,470)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(66,381)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(99,264)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(242,318)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(280,432)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(147,198)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(187,362)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(30,108)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(338,107)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(382,48)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(455,263)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(493,237)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(414,456)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(154,109)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(346,146)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(384,419)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(376,474)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(448,272)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(260,164)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(65,422)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(358,418)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(280,170)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(7,424)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(489,268)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(65,486)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(156,452)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(495,246)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(377,128)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(384,47)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(488,5)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(300,330)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(467,120)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(124,142)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(121,103)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(37,310)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(122,34)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(425,257)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(262,464)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(279,496)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(111,404)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(461,302)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(241,25)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(219,323)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(158,204)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(409,398)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(487,383)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(156,183)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(215,447)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(310,323)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(79,245)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(410,390)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(33,461)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(394,466)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(44,453)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(300,489)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(328,143)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(193,285)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(390,179)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(388,94)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(267,125)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(308,48)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(9,172)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(337,209)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(109,406)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(40,151)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(248,45)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(408,301)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(87,205)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(213,444)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(460,21)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(315,36)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(47,30)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(487,338)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(313,220)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(486,210)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(499,243)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(152,462)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(19,83)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(14,426)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(483,229)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(447,296)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(459,341)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(37,15)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(138,161)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(262,86)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(390,476)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(109,62)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(454,275)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(207,322)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(75,74)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(150,194)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(20,55)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(442,280)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(272,96)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(26,495)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(24,224)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(402,466)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(461,106)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(385,47)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(407,28)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(14,351)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(152,277)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(445,150)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(400,401)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(378,480)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(424,34)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(124,250)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(139,265)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(427,401)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(111,118)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(29,14)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(226,410)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(32,442)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(236,466)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(119,290)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(413,194)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(183,40)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>4</text></g>
+<g transform='translate(392,328)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(104,456)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(115,49)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(397,254)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(286,242)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(499,308)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(97,179)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(285,136)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(125,97)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(106,239)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(56,185)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(309,372)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(371,347)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(153,458)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(310,342)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(135,23)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(198,90)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(265,426)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(7,194)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(179,251)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(185,183)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(486,58)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(126,208)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>2</text></g>
+<g transform='translate(440,199)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(417,317)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>3</text></g>
+<g transform='translate(108,485)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(69,278)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>5</text></g>
+<g transform='translate(250,250)'><circle cx='0' cy='0' r='20' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>D</text></g>
+</svg>

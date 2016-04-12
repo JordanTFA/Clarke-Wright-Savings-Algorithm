@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' '../../svg11-flat.dtd'>
+<svg width='8cm' height='8cm' viewBox='0 0 500 500' xmlns='http://www.w3.org/2000/svg' version='1.1'>
+<g transform='translate(457,317)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(174,78)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(46,264)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>10</text></g>
+<g transform='translate(168,56)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(423,292)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>6</text></g>
+<g transform='translate(220,262)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>8</text></g>
+<g transform='translate(470,441)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>7</text></g>
+<g transform='translate(240,52)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(447,285)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>1</text></g>
+<g transform='translate(97,324)'><circle cx='0' cy='0' r='10' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>9</text></g>
+<g transform='translate(250,250)'><circle cx='0' cy='0' r='20' fill='pink' stroke='black' stroke-width='1'/><text text-anchor='middle' y='5'>D</text></g>
+</svg>
